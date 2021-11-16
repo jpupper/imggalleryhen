@@ -1,4 +1,4 @@
-# imggalleryhen
+# Image galery hen
 This is an image gallery optimized for runing in hic et nunc clones mostly. 
 
 
