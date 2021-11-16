@@ -5,11 +5,11 @@ Esta es una galeria de imagenes optimizada para correr en los clones de hic et n
 
 Instrucciones para hacer que funcione . 
 
-1)Descargar el repo. 
-2)Remplazar las imagenes en la carpeta de imagenes.(los nombres de las imagenes tienen que coincidir con los que estran en el index.html).
-3) Si tenes mas imagenes que las que figuran en la libreria hay que modificar el html. (checkear el videotutorial en youtube para ello). 
-4) Zipear la carpeta y mintearla. 
-5) Listo !
+1)Descargar el repo. <br>
+2)Remplazar las imagenes en la carpeta de imagenes.(los nombres de las imagenes tienen que coincidir con los que estran en el index.html).<br>
+3) Si tenes mas imagenes que las que figuran en la libreria hay que modificar el html. (checkear el videotutorial en youtube para ello). <br>
+4) Zipear la carpeta y mintearla. <br>
+5) Listo !<br>
 
 
 
