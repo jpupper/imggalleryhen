@@ -2,7 +2,7 @@
 This is an image gallery optimized for runing in hic et nunc clones mostly. 
 
 
-Steps for making run : 
+Steps for making this run : 
 
 1) Download this repo. 
 2) Replace de images in the imgs folder.(if name is different you will have to change it in the index.html file). 
