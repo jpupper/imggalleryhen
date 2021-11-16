@@ -1,5 +1,6 @@
 # Image galery hen
 
+ESPAÑOL : 
 
 Esta es una galeria de imagenes optimizada para correr en los clones de hic et nunc mas que nada. 
 
@@ -11,7 +12,7 @@ Instrucciones para hacer que funcione .
 4) Zipear la carpeta y mintearla. <br>
 5) Listo !<br>
 
-
+ENGLISH
 
 This is an image gallery optimized for runing in hic et nunc clones mostly. 
 
