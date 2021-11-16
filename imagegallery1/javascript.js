@@ -1,5 +1,7 @@
 var slideIndex = 1;
 
+document.on
+
 showSlides(slideIndex);
 
 // Next/previous controls
@@ -10,6 +12,29 @@ function plusSlides(n) {
 // Thumbnail image controls
 function currentSlide(n) {
   showSlides(slideIndex = n);
+}
+
+$(document).ready(function(){
+  changeCSSacordingAspectRatio();
+});
+function changeCSSacordingAspectRatio(){
+
+ var ilist = document.images;
+ for (i = 0; i < ilist.length; i++) {
+	  var w = ilist[i].width;
+	  var h = ilist[i].height;
+
+      if(w > h){
+	    ilist[i].style.width = "100%";
+		ilist[i].style.height = "auto";
+		console.log("MAYOR ANCHO");
+	  }else{
+	    ilist[i].style.width = "auto";
+		ilist[i].style.height = "100%";
+		console.log("MAYOR ALTO");
+	  }
+  }
+	 
 }
 
 function showSlides(n) {
