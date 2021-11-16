@@ -9,3 +9,5 @@ Steps for making this run :
 3) If you have more images than the library you will have to change the html. for that check the youtube tutorial. 
 4) Zip the folder and mint it in any hic et nunc clone.
 5) You are ready to go.
+
+<img src="https://github.com/jpupper/imggalleryhen/blob/main/instancesfractals1.5.png"></img>
